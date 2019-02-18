@@ -38,12 +38,15 @@ True
 
 # about
 - fetchtimezone.py
+
 used to generate worldclock.py by Powershell `tzutil` command
 
 - sliceclock.py
+
 define classes for the clocks
 
 - worldclock.py
+
 use this if you want to show clocks
 
 # tricks
