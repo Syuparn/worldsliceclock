@@ -39,11 +39,14 @@ True
 # about
 - fetchtimezone.py
 used to generate worldclock.py by Powershell `tzutil` command
+
 - sliceclock.py
 define classes for the clocks
+
 - worldclock.py
 use this if you want to show clocks
 
 # tricks
 This script uses some tricks to use slice as clock (, like `tokyo[12:00]`).
+
 Also, it uses `datetime` for time calculations.
